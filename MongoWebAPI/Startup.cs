@@ -23,10 +23,10 @@ namespace MongoWebAPI
             services.AddMvc();
             services.Configure<Settings>(options =>
             {
-                //options.ConnectionString
-                //    = Configuration.GetSection("MongoConnection:ConnectionString_MongoUbuntu").Value;
                 options.ConnectionString
-                    = Configuration.GetSection("MongoConnection:ConnectionString_CosmosDB").Value;
+                    = Configuration.GetSection("MongoConnection:ConnectionString_MongoUbuntu").Value;
+                //options.ConnectionString
+                //    = Configuration.GetSection("MongoConnection:ConnectionString_CosmosDB").Value;
                 options.Database
                     = Configuration.GetSection("MongoConnection:Database").Value;
             });
