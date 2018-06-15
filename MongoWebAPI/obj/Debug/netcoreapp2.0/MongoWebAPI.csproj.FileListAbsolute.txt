@@ -1,0 +1,11 @@
+D:\DIRACTest\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.deps.json
+D:\DIRACTest\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.runtimeconfig.json
+D:\DIRACTest\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.runtimeconfig.dev.json
+D:\DIRACTest\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.dll
+D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.csprojAssemblyReference.cache
+D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.csproj.CoreCompileInputs.cache
+D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.AssemblyInfoInputs.cache
+D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.AssemblyInfo.cs
+D:\DIRACTest\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.pdb
+D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.dll
+D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.pdb
