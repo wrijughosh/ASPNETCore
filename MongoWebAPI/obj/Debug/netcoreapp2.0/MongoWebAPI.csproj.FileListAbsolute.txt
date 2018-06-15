@@ -9,3 +9,14 @@ D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.AssemblyInfo.cs
 D:\DIRACTest\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.pdb
 D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.dll
 D:\DIRACTest\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.pdb
+D:\GithubProj\ASPNETCore\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.deps.json
+D:\GithubProj\ASPNETCore\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.runtimeconfig.json
+D:\GithubProj\ASPNETCore\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.runtimeconfig.dev.json
+D:\GithubProj\ASPNETCore\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.dll
+D:\GithubProj\ASPNETCore\MongoWebAPI\bin\Debug\netcoreapp2.0\MongoWebAPI.pdb
+D:\GithubProj\ASPNETCore\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.csprojAssemblyReference.cache
+D:\GithubProj\ASPNETCore\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.csproj.CoreCompileInputs.cache
+D:\GithubProj\ASPNETCore\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.AssemblyInfoInputs.cache
+D:\GithubProj\ASPNETCore\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.AssemblyInfo.cs
+D:\GithubProj\ASPNETCore\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.dll
+D:\GithubProj\ASPNETCore\MongoWebAPI\obj\Debug\netcoreapp2.0\MongoWebAPI.pdb

@@ -1,0 +1,26 @@
+Mongo Administration:
+====================
+1. Creating UserName and Password
+$ use admin
+	db.createUser(
+  	{
+    		user: "admin",
+    		pwd: "abc123!",
+    		roles: [ { role: "root", db: "admin" } ]
+  	}
+	);
+
+
+Mongo Commands:
++++++++++++++++++++
+1. Create Database 
+$ use hrdb
+
+2. Create Collection
+$ 
+
+3. Find a Collection 
+$ show collections
+
+4. Find Values in Collection
+$ db.Employees.find()

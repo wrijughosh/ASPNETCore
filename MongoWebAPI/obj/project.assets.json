@@ -13787,11 +13787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DIRACTest\\MongoWebAPI\\MongoWebAPI.csproj",
+      "projectUniqueName": "D:\\GithubProj\\ASPNETCore\\MongoWebAPI\\MongoWebAPI.csproj",
       "projectName": "MongoWebAPI",
-      "projectPath": "D:\\DIRACTest\\MongoWebAPI\\MongoWebAPI.csproj",
+      "projectPath": "D:\\GithubProj\\ASPNETCore\\MongoWebAPI\\MongoWebAPI.csproj",
       "packagesPath": "C:\\Users\\wghosh\\.nuget\\packages\\",
-      "outputPath": "D:\\DIRACTest\\MongoWebAPI\\obj\\",
+      "outputPath": "D:\\GithubProj\\ASPNETCore\\MongoWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -27,17 +27,17 @@ namespace MongoWebAPI.Controllers
         {
             _employeeRepository.AddEmployee(new Employee
             {
-                FullName = "Wriju"
+                FullName = "GOGH"
             });
 
             _employeeRepository.AddEmployee(new Employee
             {
-                FullName = "Wrishika"
+                FullName = "NEWTON"
             });
 
             _employeeRepository.AddEmployee(new Employee
             {
-                FullName = "Writam"
+                FullName = "BOSE"
             });
         }
 
