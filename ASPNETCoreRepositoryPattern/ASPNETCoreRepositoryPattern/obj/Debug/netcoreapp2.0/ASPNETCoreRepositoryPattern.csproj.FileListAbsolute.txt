@@ -1,0 +1,10 @@
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\bin\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.deps.json
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\bin\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.runtimeconfig.json
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\bin\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.runtimeconfig.dev.json
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\bin\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.dll
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\bin\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.pdb
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\obj\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.csproj.CoreCompileInputs.cache
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\obj\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.AssemblyInfoInputs.cache
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\obj\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.AssemblyInfo.cs
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\obj\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.dll
+D:\GithubProj\ASPNETCore\ASPNETCoreRepositoryPattern\ASPNETCoreRepositoryPattern\obj\Debug\netcoreapp2.0\ASPNETCoreRepositoryPattern.pdb
